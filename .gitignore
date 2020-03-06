@@ -1,0 +1,8 @@
+*.sln
+*.vcxproj*
+**/Debug/
+.vs/
+
+Release/
+enc_temp_folder/
+
